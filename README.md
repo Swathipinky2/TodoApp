@@ -27,5 +27,3 @@ You can try the ToDo app online by clicking (https://swathipinky2.github.io/Todo
 
 ## Installation
 No special installation is required. Simply open the `index.html` file in a web browser to use the ToDo app.
-
-Feel free to customize this README to fit your specific project and requirements. If you have any questions or feedback, feel free to contact the project maintainer at [your-email@example.com](mailto:your-email@example.com).
